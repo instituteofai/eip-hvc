@@ -118,5 +118,5 @@ There are 8 labels that have to be predicted for each image (multi-output). Each
 
 ## Things to try
 
-1. Increase the types of image augmentation using the `imgaug` library.
-2. Use `hyperopt` for hyperparameter optimization.
+1. Increase the types of image augmentation using the [imgaug](https://github.com/aleju/imgaug) library.
+2. Use [hyperopt](https://github.com/hyperopt/hyperopt) for hyperparameter optimization.
